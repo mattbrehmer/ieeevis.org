@@ -34,7 +34,7 @@ The panelists include: [Zan Armstrong](https://www.zanarmstrong.com/) (Observabl
 ![Panel 3: Practioner Collaborations](https://visinpractice.github.io/assets/a-visinpractice_panel3.png)
 
 
-**Panel 3**: _Practioner Collaborations_ (moderated by Matt Larsen), 12:00 CDT.
+**Panel 3**: _Practitioner Collaborations_ (moderated by Matt Larsen), 12:00 CDT.
 
 Many IEEE VIS attendees are visualization experts that know the tools of the trade well, but for practitioners (i.e., domain scientists), the wealth of tools and techniques available can be overwhelming. Collaborations between visualization experts and domain scientists can have large payoffs, but the collaboration process is challenging. Overcoming different vocabularies, conflicting goals, and overcoming misconceptions are just of few of the challenges faced by both sides of the collaboration. In this panel, we discuss the collaboration process and associated challenges featuring five panelists on both sides: visualization experts and domains scientists. What are the key challegnes of the collaboration process? What were the biggest collaboration successes and failures? How can we effectively overcome language barriers? 
 
